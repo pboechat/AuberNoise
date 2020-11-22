@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UserSettings
+/Temp
+/obj/Debug
+/Logs
+/Library
+/Hull-Delaunay-Voronoi.sln
+/Assembly-CSharp.csproj
+/.vs/Hull-Delaunay-Voronoi/v16
